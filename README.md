@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22510006/README.md)
 # EKS Custody Alarm
 
 A simple, immersive, and lightweight custody alarm for FiveM using `ox_target`.
